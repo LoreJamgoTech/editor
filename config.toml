@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://demo.gethugothemes.com/editor/"
+baseURL = "https://goofy-goldwasser-2a3f21.netlify.app/"
 title = "Editor - Personal Blog Hugo Theme"
 theme = "editor-hugo"
 # post pagination
